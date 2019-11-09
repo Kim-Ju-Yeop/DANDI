@@ -21,8 +21,9 @@
 ## Stack
 |                      | Android     | Server         | Design                       | Window| WeB|
 |:--------------------:|:---------------:|:------------------:|:--------------------------------:|:-----:|:----:|
-| Development Language | JAVA, RETROFIT2 | Java Script        |                                  |:-----:|:----:|
-| Development Tool     | Android Studio  | Visual Studio Code | Adobe Illustrator, Photoshop, XD |:-----:|:----:|
+| Development People | 김주엽, 이영은 | 최진우        |김혜선                                 |김경훈|권순관, 김혜선, 오하형|
+| Development Language | JAVA, RETROFIT2 | Java Script        |                                  |C#, Uwp|Js, React, Html, CSS|
+| Development Tool     | Android Studio  | Visual Studio Code | Adobe Illustrator, Photoshop, XD |Visual Studio| Visual Studio Code|
 
 ## UI/UX
 <div>
