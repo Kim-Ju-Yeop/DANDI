@@ -32,11 +32,6 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522091-cb061e00-02ea-11ea-9c5a-7fa047af7907.png"></img>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522093-cfcad200-02ea-11ea-9777-826d75bb0daf.png"></img>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522104-e40ecf00-02ea-11ea-9fc3-284afdd26292.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522106-e6712900-02ea-11ea-9331-0ba66ac606cb.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522107-e83aec80-02ea-11ea-8b61-0fbc0fdcb4ad.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522109-ea04b000-02ea-11ea-8485-a78f44805e6a.png"></img>
 </div>
 
 ## Google Play
