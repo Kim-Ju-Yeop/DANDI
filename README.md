@@ -34,9 +34,9 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
 </div>
 
-## Google Play
-  - Google Play Store 2019.10.20 정식 출시를 하였습니다.
-  - Google Play <a href ="https://play.google.com/store/apps/details?id=org.techtown.project5" target ="_blank" title ="밀수 바로가기">Meals 밀수 애플리케이션 </a>
+## 2019 ICT Expo
+  - 2019 ICT 융합 엑스포에 Dandi 단디 프로젝트를 가지고 참가를 하였습니다.
+  - Naver Blog <a href ="http://kjy13299.blog.me/221696073310" target ="_blank" title ="ICT 융합 엑스포">Meals 2019 ICT 융합 엑스포 </a>
  
   
 
