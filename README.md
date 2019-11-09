@@ -25,7 +25,7 @@
 | Development Language | Java, Retrofit2 | Java Script        | C#, Uwp | Js, React, Html, CSS|
 | Development Tool     | Android Studio  | Visual Studio Code |Visual Studio| Visual Studio Code|
 
-## UI/UX
+## UI/UXs
 <div>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522086-c6da0080-02ea-11ea-9c9a-fba4c462978a.png"></img>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522089-c93c5a80-02ea-11ea-931b-144224830813.png"></img>
