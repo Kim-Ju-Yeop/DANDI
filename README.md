@@ -27,16 +27,16 @@
 
 ## UI/UX
 <div>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521938-35b65a00-02e9-11ea-86aa-35738138ac26.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521867-b1fc6d80-02e8-11ea-9d4c-a150c9cbf6ba.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521868-b1fc6d80-02e8-11ea-8199-630212db4248.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521869-b2950400-02e8-11ea-9dcd-d9a5c291aea5.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521870-b2950400-02e8-11ea-9086-e182f92819d8.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521871-b2950400-02e8-11ea-9447-d571bec9787c.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521872-b32d9a80-02e8-11ea-8dc5-b5d0fd37692b.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68522017-fa685b00-02e9-11ea-8547-9d58cf42ae3f.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521874-b32d9a80-02e8-11ea-942a-a03ebb446698.png"></img>
-<img width="160" src="https://user-images.githubusercontent.com/49600974/68521875-b3c63100-02e8-11ea-850d-ee24ff88eb9f.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522086-c6da0080-02ea-11ea-9c9a-fba4c462978a.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522089-c93c5a80-02ea-11ea-931b-144224830813.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522091-cb061e00-02ea-11ea-9c5a-7fa047af7907.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522093-cfcad200-02ea-11ea-9777-826d75bb0daf.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522104-e40ecf00-02ea-11ea-9fc3-284afdd26292.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522106-e6712900-02ea-11ea-9331-0ba66ac606cb.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522107-e83aec80-02ea-11ea-8b61-0fbc0fdcb4ad.png"></img>
+<img width="160" src="https://user-images.githubusercontent.com/49600974/68522109-ea04b000-02ea-11ea-8485-a78f44805e6a.png"></img>
 </div>
 
 ## Google Play
