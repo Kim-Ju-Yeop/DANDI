@@ -19,11 +19,11 @@
 - Android, Web, Window 3개의 학생들이 쉽게 접근할 수 있는 다양한 플랫폼
 
 ## Stack
-|                      | Android     | Server         | Design                       | Window| WeB|
-|:--------------------:|:---------------:|:------------------:|:--------------------------------:|:-----:|:----:|
-| Development People | 김주엽, 이영은 | 최진우        |김혜선                                 |김경훈|권순관, 김혜선, 오하형|
+|                      | Android     | Server        | Window| WeB|
+|:--------------------:|:---------------:|:------------------:|:-----:|:----:|
+| Development People | 김주엽, 이영은 | 최진우       |김경훈|권순관, 김혜선, 오하형|
 | Development Language | JAVA, RETROFIT2 | Java Script        |                                  |C#, Uwp|Js, React, Html, CSS|
-| Development Tool     | Android Studio  | Visual Studio Code | Adobe Illustrator, Photoshop, XD |Visual Studio| Visual Studio Code|
+| Development Tool     | Android Studio  | Visual Studio Code |Visual Studio| Visual Studio Code|
 
 ## UI/UX
 <div>
