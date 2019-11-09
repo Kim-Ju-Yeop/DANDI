@@ -34,11 +34,6 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
 </div>
 
-<div>
-<img src="https://user-images.githubusercontent.com/49600974/68522170-a9f1fd00-02eb-11ea-9cc7-dfbb5d8da12b.png"></img>
-<img src="https://user-images.githubusercontent.com/49600974/68522172-aa8a9380-02eb-11ea-9dde-12748b38141b.png"></img>
-</div>
-
 ## Google Play
   - Google Play Store 2019.10.20 정식 출시를 하였습니다.
   - Google Play <a href ="https://play.google.com/store/apps/details?id=org.techtown.project5" target ="_blank" title ="밀수 바로가기">Meals 밀수 애플리케이션 </a>
