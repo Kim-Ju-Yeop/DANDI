@@ -32,10 +32,11 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522091-cb061e00-02ea-11ea-9c5a-7fa047af7907.png"></img>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522093-cfcad200-02ea-11ea-9777-826d75bb0daf.png"></img>
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
-<img src="https://user-images.githubusercontent.com/49600974/68522170-a9f1fd00-02eb-11ea-9cc7-dfbb5d8da12b.png"></img>
-<img src="https://user-images.githubusercontent.com/49600974/68522171-aa8a9380-02eb-11ea-8ead-ed75231f6ddf.png"></img>
-<img src="https://user-images.githubusercontent.com/49600974/68522172-aa8a9380-02eb-11ea-9dde-12748b38141b.png"></img>
+</div>
 
+<div>
+<img src="https://user-images.githubusercontent.com/49600974/68522170-a9f1fd00-02eb-11ea-9cc7-dfbb5d8da12b.png"></img>
+<img src="https://user-images.githubusercontent.com/49600974/68522172-aa8a9380-02eb-11ea-9dde-12748b38141b.png"></img>
 </div>
 
 ## Google Play
