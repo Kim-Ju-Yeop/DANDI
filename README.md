@@ -19,10 +19,10 @@
 - Android, Web, Window 3개의 학생들이 쉽게 접근할 수 있는 다양한 플랫폼
 
 ## Stack
-|                      | Android     | Web         | Window                       | Server |
-|:--------------------:|:---------------:|:------------------:|:--------------------------------:|
-| Development Language | JAVA, RETROFIT2 | React, Js, Html, CSS        | C#, Uwp                                  | Js, MySQL, Node.js
-| Development Tool     | Android Studio  | Visual Studio Code | Visual Studio | Visual Studio Code
+|                      | Android     | Server         | Design                       | Window| WeB|
+|:--------------------:|:---------------:|:------------------:|:--------------------------------:|:-----:|:----:|
+| Development Language | JAVA, RETROFIT2 | Java Script        |                                  |:-----:|:----:|
+| Development Tool     | Android Studio  | Visual Studio Code | Adobe Illustrator, Photoshop, XD |:-----:|:----:|
 
 ## UI/UX
 <div>
