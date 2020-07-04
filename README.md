@@ -34,10 +34,9 @@
 <img width="160" src="https://user-images.githubusercontent.com/49600974/68522099-d8bba380-02ea-11ea-9295-7ff52d97bf76.png"></img>
 </div>
 
-## 2019 ICT Expo
-  - 2019 ICT 융합 엑스포에서 Dandi 단디 프로젝트를 가지고 참가를 하였습니다.
-  - 네이버 블로그 <a href ="http://kjy13299.blog.me/221696073310" target ="_blank" title ="ICT 융합 엑스포">2019 ICT 융합 엑스포 </a>
+## Blog
   - 네이버 블로그 <a href ="http://kjy13299.blog.me/221700520404" target ="_blank" title ="ICT 융합 엑스포">Dandi 단디 프로젝트 </a>
+  - 네이버 블로그 <a href ="http://kjy13299.blog.me/221696073310" target ="_blank" title ="ICT 융합 엑스포">2019 ICT 융합 엑스포 </a>
  
   
 
