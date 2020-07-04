@@ -26,11 +26,11 @@
 | Development Tool     | Android Studio  | Visual Studio Code |Visual Studio| Visual Studio Code|
 
 ## Skill
-- <a href="https://github.com/bumptech/glide">Glide</a> 라이브러리를 사용하였습니다.
-- <a href="https://github.com/square/retrofit">Retrofit</a> 라이브러리를 사용하였습니다.
-- <a href="https://github.com/kristiyanP/colorpicker">ColorPicker</a> 라이브러리를 사용하였습니다.
-- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a> 라이브러리를 사용하였습니다.
-- <a href="https://github.com/prolificinteractive/material-calendarview">Material CalendarView</a> 라이브러리를 사용하였습니다.
+- <a href="https://github.com/bumptech/glide">Glide</a>
+- <a href="https://github.com/square/retrofit">Retrofit</a>
+- <a href="https://github.com/kristiyanP/colorpicker">ColorPicker</a>
+- <a href="https://github.com/ParkSangGwon/TedPermission">TedPermission</a>
+- <a href="https://github.com/prolificinteractive/material-calendarview">Material CalendarView</a>
 
 ## UI/UX
 <div>
