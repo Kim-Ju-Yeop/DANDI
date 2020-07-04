@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: gun0912.ted:tedpermission:2.2.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/558b56de1fb587f909053ab357f91b10/jetified-tedpermission-2.2.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/558b56de1fb587f909053ab357f91b10/jetified-tedpermission-2.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc348918f4720bc35303aa41c116e1d3/jetified-tedpermission-2.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc348918f4720bc35303aa41c116e1d3/jetified-tedpermission-2.2.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gun0912.ted/tedpermission/2.2.0/4688bfd72f2565c5501ccd0a462f9d01706fb274/tedpermission-2.2.0-javadoc.jar!/" />
