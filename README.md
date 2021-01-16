@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/49600974/104806234-6103d580-5819-11eb-9f82-ba31a81eddb7.png"></img>
+
 # Dandi 단디
 📆 초, 중, 고등학교 학생들의 학사 일정 및 일정 관리를 할 수 있도록 도와주는 프로젝트입니다.
 
